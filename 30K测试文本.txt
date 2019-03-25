@@ -1,0 +1,1617 @@
+Date: Mon, 11 Mar 2019 02:50:33 GMT
+Info: GET http://0.0.0.0:12345/README.md HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 02:50:33 GMT
+Info: http://0.0.0.0:12345/README.md
+File: myhttpd.c
+Line: 66
+path[0]: h
+Date: Mon, 11 Mar 2019 02:50:45 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 02:50:45 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 02:51:48 GMT
+Info: GET http://0.0.0.0:12345/ HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 02:51:48 GMT
+Info: http://0.0.0.0:12345/
+File: myhttpd.c
+Line: 66
+path[0]: h
+Date: Mon, 11 Mar 2019 02:59:03 GMT
+Info: GET /myhttpd.c HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 02:59:03 GMT
+Info: /myhttpd.c
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 02:59:10 GMT
+Info: GET http://0.0.0.0:12345/myhttpd.c HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 02:59:10 GMT
+Info: http://0.0.0.0:12345/myhttpd.c
+File: myhttpd.c
+Line: 66
+path[0]: h
+Date: Mon, 11 Mar 2019 03:01:57 GMT
+Info: GET /myhttpd.c HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:01:57 GMT
+Info: /myhttpd.c
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:05:58 GMT
+Info: GET /myhttpd.c HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:05:58 GMT
+Info: /myhttpd.c
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:06:16 GMT
+Info: GET /README.md HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:06:16 GMT
+Info: /README.md
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:06:20 GMT
+Info: GET /favicon.ico HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:06:20 GMT
+Info: /favicon.ico
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:06:35 GMT
+Info: GET /favicon.ico HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:06:35 GMT
+Info: /favicon.ico
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:07:31 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:07:31 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:07:34 GMT
+Info: GET /logic_example.mp4 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:07:34 GMT
+Info: /logic_example.mp4
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:07:48 GMT
+Info: GET /logic_example.mp4 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:07:48 GMT
+Info: /logic_example.mp4
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:08:36 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:08:36 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:08:36 GMT
+Info: GET /favicon.ico HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:08:36 GMT
+Info: /favicon.ico
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:08:47 GMT
+Info: GET /favicon.ico HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:08:47 GMT
+Info: /favicon.ico
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:09:03 GMT
+Info: GET /myhttpd.c HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:09:03 GMT
+Info: /myhttpd.c
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:11:21 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:11:21 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:11:32 GMT
+Info: GET /0.0.0.0:12345 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:11:32 GMT
+Info: /0.0.0.0:12345
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:11:37 GMT
+Info: GET /index.html HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:11:37 GMT
+Info: /index.html
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:19:36 GMT
+Info: GET /index.html HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:19:36 GMT
+Info: /index.html
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:23:06 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:23:06 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:23:06 GMT
+Info: GET /favicon.ico HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:23:06 GMT
+Info: /favicon.ico
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:23:17 GMT
+Info: GET /0.0.0.0:12345 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:23:17 GMT
+Info: /0.0.0.0:12345
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:27:38 GMT
+Info: GET /0.0.0.0:12345 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:27:38 GMT
+Info: /0.0.0.0:12345
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:32:59 GMT
+Info: GET /favicon.ico HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:32:59 GMT
+Info: /favicon.ico
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:33:52 GMT
+Info: GET /favicon.ico HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:33:52 GMT
+Info: /favicon.ico
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:34:34 GMT
+Info: GET /favicon.ico HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:34:34 GMT
+Info: /favicon.ico
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:39:52 GMT
+Info: GET /0.0.0.0:12345 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:39:52 GMT
+Info: /0.0.0.0:12345
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:42:42 GMT
+Info: GET /favicon.ico HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:42:42 GMT
+Info: /favicon.ico
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:45:41 GMT
+Info: GET /myhttpd.c HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:45:41 GMT
+Info: /myhttpd.c
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:58:05 GMT
+Info: GET /myhttpd.c/ HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:58:05 GMT
+Info: /myhttpd.c/
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 03:59:24 GMT
+Info: GET /myhttpd.c HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 03:59:24 GMT
+Info: /myhttpd.c
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 04:00:05 GMT
+Info: GET /0.0.0.0:12345 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 04:00:05 GMT
+Info: /0.0.0.0:12345
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 04:00:12 GMT
+Info: GET /0.0.0.0:12345 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 04:00:12 GMT
+Info: /0.0.0.0:12345
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 04:01:45 GMT
+Info: GET /0.0.0.0:12345 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 04:01:45 GMT
+Info: /0.0.0.0:12345
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 04:05:12 GMT
+Info: GET /0.0.0.0:12345/ HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 04:05:12 GMT
+Info: /0.0.0.0:12345/
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 04:05:54 GMT
+Info: GET /0.0.0.0:12345/ HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 04:05:54 GMT
+Info: /0.0.0.0:12345/
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 04:08:02 GMT
+Info: GET /0.0.0.0:12345 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 04:08:02 GMT
+Info: /0.0.0.0:12345
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 04:09:22 GMT
+Info: GET /0.0.0.0:12345/ HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 04:09:22 GMT
+Info: /0.0.0.0:12345/
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 04:10:21 GMT
+Info: GET // HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 04:10:21 GMT
+Info: //
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 04:10:41 GMT
+Info: GET /myhttpd.cc HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 04:10:41 GMT
+Info: /myhttpd.cc
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 04:11:04 GMT
+Info: GET /myhttpd.cc HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 04:11:04 GMT
+Info: /myhttpd.cc
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 04:11:17 GMT
+Info: GET /myhttpd.c HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 04:11:17 GMT
+Info: /myhttpd.c
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 04:11:35 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 04:11:35 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 04:11:45 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 04:11:45 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 04:12:03 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 04:12:03 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 04:12:05 GMT
+Info: GET /0.0.0.0:12345 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 04:12:05 GMT
+Info: /0.0.0.0:12345
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 04:13:43 GMT
+Info: GET /0.0.0.0:12345 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 04:13:43 GMT
+Info: /0.0.0.0:12345
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 04:13:48 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 04:13:48 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 04:15:11 GMT
+Info: GET /0.0.0.0:12345 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 04:15:11 GMT
+Info: /0.0.0.0:12345
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 04:19:39 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 04:19:39 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 07:16:15 GMT
+Info: GET /myhttpd.c HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 07:16:15 GMT
+Info: /myhttpd.c
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 07:31:47 GMT
+Info: GET /myhttpd.c HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 07:31:47 GMT
+Info: /myhttpd.c
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 07:32:09 GMT
+Info: GET /0.0.0.0:12345 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 07:32:09 GMT
+Info: /0.0.0.0:12345
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 07:32:43 GMT
+Info: GET /0.0.0.0:12345 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 07:32:43 GMT
+Info: /0.0.0.0:12345
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 07:32:51 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 07:32:51 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 07:40:41 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 07:40:41 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 07:41:40 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 07:41:40 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 07:41:52 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 07:41:52 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 07:50:28 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 07:50:28 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 07:55:00 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 07:55:00 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 07:55:20 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 07:55:20 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 07:55:50 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 07:55:50 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 07:57:40 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 07:57:40 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 07:58:12 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 07:58:12 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 08:03:07 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 08:03:07 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 08:04:16 GMT
+Info: GET /myhttpd.c HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 08:04:16 GMT
+Info: /myhttpd.c
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 08:10:12 GMT
+Info: GET /myhttpd.c HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 08:10:12 GMT
+Info: /myhttpd.c
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 08:10:19 GMT
+Info: GET /0.0.0.0:12345 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 08:10:19 GMT
+Info: /0.0.0.0:12345
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 08:10:22 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 08:10:22 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 09:06:07 GMT
+Info: GET / HTTP1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 09:06:07 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 09:07:59 GMT
+Info: GET / HTTP/1.1 
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 09:07:59 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Mon, 11 Mar 2019 12:41:14 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Mon, 11 Mar 2019 12:41:14 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:01:38 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:01:38 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:08:20 GMT
+Info: GET /0.0.0.0:12345 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:08:20 GMT
+Info: /0.0.0.0:12345
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:09:10 GMT
+Info: GET /0.0.0.0:12345 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:09:10 GMT
+Info: /0.0.0.0:12345
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:09:13 GMT
+Info: GET /0.0.0.0:12345 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:09:13 GMT
+Info: /0.0.0.0:12345
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:10:25 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:10:25 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:26:44 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:26:44 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:27:03 GMT
+Info: GET /3G测试视频.mp4 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:27:03 GMT
+Info: /3G测试视频.mp4
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:29:22 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:29:22 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:29:37 GMT
+Info: GET /myhttpd.c HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:29:37 GMT
+Info: /myhttpd.c
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:29:58 GMT
+Info: GET /myhttpd.c HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:29:58 GMT
+Info: /myhttpd.c
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:30:13 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:30:13 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:30:24 GMT
+Info: GET /myhttpd.c HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:30:24 GMT
+Info: /myhttpd.c
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:33:03 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:33:03 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:33:10 GMT
+Info: GET /myhttpd.c HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:33:10 GMT
+Info: /myhttpd.c
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:33:44 GMT
+Info: GET /3G测试视频.mp4 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:33:44 GMT
+Info: /3G测试视频.mp4
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:38:04 GMT
+Info: GET /myhttpd.c HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:38:04 GMT
+Info: /myhttpd.c
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:38:10 GMT
+Info: GET /3G测试视频.mp4 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:38:10 GMT
+Info: /3G测试视频.mp4
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:41:45 GMT
+Info: GET /3G测试视频.mp4 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:41:45 GMT
+Info: /3G测试视频.mp4
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:48:12 GMT
+Info: GET /3G测试视频.mp4 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:48:12 GMT
+Info: /3G测试视频.mp4
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:52:19 GMT
+Info: GET /3G测试视频.mp4 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:52:19 GMT
+Info: /3G测试视频.mp4
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:55:05 GMT
+Info: GET /myhttpd.c HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:55:05 GMT
+Info: /myhttpd.c
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:55:20 GMT
+Info: GET /logic_example.mp4 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:55:20 GMT
+Info: /logic_example.mp4
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:55:31 GMT
+Info: GET /3G测试视频.mp4 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:55:31 GMT
+Info: /3G测试视频.mp4
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:58:47 GMT
+Info: GET /0.0.0.0:12345 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:58:47 GMT
+Info: /0.0.0.0:12345
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:58:49 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:58:49 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:59:00 GMT
+Info: GET /myhttpd.c HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:59:00 GMT
+Info: /myhttpd.c
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 08:59:24 GMT
+Info: GET /3G测试视频.mp4 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 08:59:24 GMT
+Info: /3G测试视频.mp4
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:00:16 GMT
+Info: GET /3G测试视频.mp4 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:00:16 GMT
+Info: /3G测试视频.mp4
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:00:52 GMT
+Info: GET /myhttpd.c HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:00:52 GMT
+Info: /myhttpd.c
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:01:13 GMT
+Info: GET /3G测试视频.mp4 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:01:13 GMT
+Info: /3G测试视频.mp4
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:01:27 GMT
+Info: GET /3G测试视频.mp4 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:01:27 GMT
+Info: /3G测试视频.mp4
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:20:07 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:20:07 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:20:13 GMT
+Info: GET /log.txt HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:20:13 GMT
+Info: /log.txt
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:22:35 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:22:35 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:34:01 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:34:01 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:36:31 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:36:31 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:37:23 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:37:23 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:38:58 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:38:58 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:39:07 GMT
+Info: GET /log.txt HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:39:07 GMT
+Info: /log.txt
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:39:38 GMT
+Info: GET /0.0.0.0:12345 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:39:38 GMT
+Info: /0.0.0.0:12345
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:40:57 GMT
+Info: GET /0.0.0.0:12345 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:40:57 GMT
+Info: /0.0.0.0:12345
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:41:04 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:41:04 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:42:11 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:42:11 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:42:37 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:42:37 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:43:25 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:43:25 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:43:41 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:43:41 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:43:51 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:43:51 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:44:05 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:44:05 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:44:20 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:44:20 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:44:33 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:44:33 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:44:44 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:44:44 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:46:13 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:46:13 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:46:53 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:46:53 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:47:10 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:47:10 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:47:46 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:47:46 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:48:31 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:48:31 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:49:25 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:49:25 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:50:00 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:50:00 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:50:14 GMT
+Info: GET /log.txt HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:50:14 GMT
+Info: /log.txt
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:51:25 GMT
+Info: GET /log.txt HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:51:25 GMT
+Info: /log.txt
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:51:51 GMT
+Info: GET /log.txt HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:51:51 GMT
+Info: /log.txt
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:52:10 GMT
+Info: GET /logic_example.mp4 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:52:10 GMT
+Info: /logic_example.mp4
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:55:12 GMT
+Info: GET /logic_example.mp4 HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:55:12 GMT
+Info: /logic_example.mp4
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:55:20 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:55:20 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:57:55 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:57:55 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 09:59:24 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 09:59:24 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 10:00:39 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 10:00:39 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 10:04:21 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 10:04:21 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 10:04:59 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 10:04:59 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 10:05:12 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 10:05:12 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 10:05:36 GMT
+Info: GET / HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 10:05:36 GMT
+Info: /
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 10:05:52 GMT
+Info: GET /README.md HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 10:05:52 GMT
+Info: /README.md
+File: myhttpd.c
+Line: 66
+path[0]: /
+Date: Tue, 12 Mar 2019 10:06:04 GMT
+Info: GET /log.txt HTTP/1.1
+
+File: myhttpd.c
+Line: 57
+path[0]: 1
+Date: Tue, 12 Mar 2019 10:06:04 GMT
+Info: /log.txt
+File: myhttpd.c
+Line: 66
+path[0]: /
